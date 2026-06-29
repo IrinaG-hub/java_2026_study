@@ -3,7 +3,7 @@
 //
 //    public static double CalculateCircleArea(double R) {    // public static double calculateCircleArea(double radius) { / метод с маленькой буквы, имя параметра должно быть понятным
 //        double S = pi * R * R;                              // переменная избыточна (сразу возвращается, больше не используется, н меняется)
-//        boolean result = true;                              // переменная не используется
+//        boolean result = true;                              // переменная не используется, а если бы использовалась, то должна звучать как вопрос: hasResult
 //        return S;                                           // return PI * radius * radius; / убрали лишнюю переменную
 //    }
 //
