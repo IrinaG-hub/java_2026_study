@@ -8,6 +8,6 @@ public class Main {
 
     System.out.println("Имя: " + name);
     System.out.println("Возраст: " + age);
-    System.out.println("Любимый язык программирования " + favoriteLanguage);
+    System.out.println("Любимый язык программирования: " + favoriteLanguage);
         }
     }
