@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task2/StudentProfile.iml" filepath="$PROJECT_DIR$/Task2/StudentProfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_calculator/Student_calculator.iml" filepath="$PROJECT_DIR$/Student_calculator/Student_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_2026_study.iml" filepath="$PROJECT_DIR$/java_2026_study.iml" />
     </modules>
   </component>
